@@ -1,3 +1,7 @@
 Running TC in commandline:
 
 truecrypt <container_path> -m nokernelcrypto
+
+Compile guide taken from https://thelastmaimou.wordpress.com/2014/04/07/picryption-truecrypt-for-the-pi-2/?utm_source=PiHunt&utm_medium=post
+
+To compile just run TCSetupRPi.sh
