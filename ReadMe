@@ -1,0 +1,3 @@
+Running TC in commandline:
+
+truecrypt <container_path> -m nokernelcrypto
