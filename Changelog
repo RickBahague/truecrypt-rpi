@@ -1,0 +1,2 @@
+* February 3, 2018
+Fix invalid character error cause by newer gcc-5 compiler by applying this from veracrypt, https://github.com/veracrypt/VeraCrypt/commit/646679da4d79bf7f8af22c44c7ae8498086a88a6#diff-c3f573995e7d4da7a8c1a34098403f88 to 
